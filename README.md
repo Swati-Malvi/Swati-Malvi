@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Swati Malvi</h1>
-<h3 align="center">Hi, I'm Swati Malvi, A Full Stack Developer from India</h3>
+<h3 align="center">Hi, I'm Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-malvi&label=Profile%20views&color=0e75b6&style=flat" alt="swati-malvi" /> </p>
 
